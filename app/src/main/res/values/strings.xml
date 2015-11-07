@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Beach Volley Scoreboard</string>
+    <string name="action_settings">Developed by Orfanak, July 2015</string>
+    <string name="home">Home</string>
+    <string name="visitor">Visitor</string>
+    <string name="num_of_sets">Num of Sets</string>
+    <string name="points_per_set">Points per Set</string>
+    <string name="team_names">Team Names</string>
+    <string name="SetValue">2</string>
+    <string name="PointsValue">21</string>
+    <string name="TieBreakPointsValue">15</string>
+    <string name="TieBreakPoints">Tie Break Points</string>
+    <string name="Button_Start">Start</string>
+    <string name="title_activity_first_set">Beach Volleyball Scoreboard</string>
+    <string name="next_set">Next Set</string>
+    <string name="cancel">Cancel</string>
+    <string name="shareButton">Share</string>
+    <string name="dialog_title">Reset</string>
+    <string name="dialog_message">Do you want to reset this Set?</string>
+    <string name="positive_button">Yes</string>
+    <string name="negative_button">No</string>
+
+</resources>
